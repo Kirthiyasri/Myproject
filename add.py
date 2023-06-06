@@ -1,5 +1,6 @@
-a = 15
+
+a =22
 b=200
 c=300
 d=400
-print (a=b+c)
+print (a+b+c)
